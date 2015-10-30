@@ -1,0 +1,2 @@
+# TFF
+Temporary Firefox Fix
