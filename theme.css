@@ -1,1 +1,11 @@
-
+@-moz-document url-prefix() { 
+#volumePercent {
+    right: 320px
+  }
+#volume {
+    top:  20px;
+  }
+#dj-history-button {
+    top: 11px;
+  }
+}
